@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Chan.
 - 👀 I’m interested in Data Science and its applications.
-- 🌱 I’m currently in the CodeStates AI Bootcamp.
+- 🌱 I’ve studied in the CodeStates AI Bootcamp.
 
 <!---
 booted-re/booted-re is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
